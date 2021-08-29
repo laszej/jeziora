@@ -1,0 +1,65 @@
+body
+{   font-family: 'Lato', sans-serif;
+    width: auto;
+    height: auto;
+background: white;}
+    
+
+    #nagłówek
+    {text-align: center;
+    color: darkblue;}
+
+    #menu{
+        width:100%;
+      
+    }
+
+    .option{
+    float: left;
+    margin: 20px;
+    font-size:28px;
+    text-decoration: none;
+    }
+
+    #galeria
+    {margin-left: 10%;}
+
+    .zdjęcie{
+    display:inline-block;
+    transition: transform .5s;}
+
+    .zdjęcie:hover{transform: scale(1.5);}
+
+    a:link, a:visited{text-decoration: none;
+    color: darkblue;}
+
+    #foto
+    {float: left;
+    margin-right: 20px;
+    min-height: 750px;
+    min-width: 550px;
+}
+
+    .foto-strony
+    {float: left;
+    width: 750px;}
+
+    .content{color: steelblue;
+            padding: 10px;
+            margin-right: 15px;
+            text-align: justify;
+            border-left:10px;}
+
+     #przycisk
+     {width: 100px;
+     height: 50px;
+     border-radius: 10%;
+     background: steelblue;
+}
+   
+
+    /*  min-height: 700px;
+        background-image: url("rus.jpg");
+        background-size: cover;*/
+
+ 
