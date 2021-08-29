@@ -40,15 +40,15 @@ margin-left: auto;}
     #foto
     {float: left;
     margin-right: 20px;
-    height: 750px;
-    width: 550px;
+    height: 100vmin;
+    width: 100vmin;
     max-width: 100%; 
 }
 
     .foto-strony
     {float: left;
-     height: 750px;
-    width: 550px;   
+     height: 100vmin;
+    width: 100vmin;   
     max-width: 100%;}
 
     .content{color: steelblue;
