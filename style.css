@@ -48,9 +48,9 @@ margin-left: auto;}
 
     .foto-strony
     {float: left;
+     min-height:100vmin;   
      height: auto;
-    width: 100vmin;   
-    max-width: 100%;}
+    min-width: 100vmin;}
 
     .content{color: steelblue;
             padding: 10px;
