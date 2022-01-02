@@ -41,15 +41,14 @@ margin-left: auto;}
     {float: left;
     margin-right: 20px;
     height: auto;
-    min-width: 100vmin;
+   max-width: 100vmin;
    
 }
 
     .foto-strony
-    {float: left;
-     min-height:100vmin;   
+    {float: left;   
      height: auto;
-    min-width: 100vmin;}
+    max-width: 100vmin;}
 
     .content{color: steelblue;
             padding: 10px;
