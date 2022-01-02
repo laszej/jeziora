@@ -59,7 +59,8 @@ margin-left: auto;}
             border-left:10px;}
 
      #przycisk
-     {width: 100px;
+     {border:none;
+     width: 100px;
      height: 50px;
      border-radius: 10%;
      background: steelblue;
