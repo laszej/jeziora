@@ -31,7 +31,8 @@ margin-left: auto;}
 
 #galeria{display: flex;
 flex direction: row;
-flex-wrap: wrap;}
+flex-wrap: wrap;
+justify-content: center;}
 
     a:link, a:visited{text-decoration: none;
     color: darkblue;}
