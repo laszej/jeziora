@@ -29,9 +29,9 @@ margin-left: auto;}
     .zdjęcie{
     display:inline-block;
     transition: transform .5s;
-     max-width: 100%}
+     max-width: 80vmin}
 
-    .zdjęcie:hover{transform: scale(1.5);}
+    .zdjęcie:hover{transform: scale(1.2);}
 
     a:link, a:visited{text-decoration: none;
     color: darkblue;}
