@@ -24,8 +24,9 @@ margin-left: auto;}
     }
     
 .zdjęcie{
+    margin 0 auto;
     transition: transform .5s;
-     max-width: 70vmin;
+     max-width: 80vmin;
      margin: 5px;}
 
     .zdjęcie:hover{transform: scale(1.2);
