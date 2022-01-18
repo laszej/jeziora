@@ -27,7 +27,8 @@ margin-left: auto;}
     transition: transform .5s;
      max-width: 80vmin}
 
-    .zdjęcie:hover{transform: scale(1.2);}
+    .zdjęcie:hover{transform: scale(1.2);
+max-width: 100vmin}
 
 #galeria{display: flex;
 flex direction: row;
