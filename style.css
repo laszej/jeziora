@@ -29,7 +29,7 @@ margin-left: auto;}
 
     .zdjęcie:hover{transform: scale(1.2);}
 
-#galeria{fisplay: flex;
+#galeria{display: flex;
 flex direction: row;
 flex-wrap: wrap;}
 
