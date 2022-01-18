@@ -22,11 +22,8 @@ margin-left: auto;}
     font-size:28px;
     text-decoration: none;
     }
-
-    #galeria
-    {margin-left: 10%}
-
-    .zdjęcie{
+    
+.zdjęcie{
     display:inline-block;
     transition: transform .5s;
      max-width: 80vmin}
