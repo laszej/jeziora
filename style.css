@@ -30,6 +30,8 @@ margin-left: auto;}
 
     .zdjęcie:hover{transform: scale(1.2);}
 
+#galeria{margin: 0 auto}
+
     a:link, a:visited{text-decoration: none;
     color: darkblue;}
 
