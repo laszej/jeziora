@@ -24,13 +24,14 @@ margin-left: auto;}
     }
     
 .zdjęcie{
-    display:inline-block;
     transition: transform .5s;
      max-width: 80vmin}
 
     .zdjęcie:hover{transform: scale(1.2);}
 
-#galeria{margin: 0 auto}
+#galeria{fisplay: flex;
+flex direction: row;
+flex-wrap: wrap;}
 
     a:link, a:visited{text-decoration: none;
     color: darkblue;}
